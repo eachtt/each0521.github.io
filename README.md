@@ -1,2 +1,2 @@
-# each0521.github.io
+# eachtt.github.io
 This is my personal website
